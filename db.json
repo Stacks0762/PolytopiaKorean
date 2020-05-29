@@ -1,8 +1,8 @@
 {
   "language": "English",
   "startmenu.new_game": "새로운",
-  "startmenu.multiplayer": "MULTIPLAYER",
-  "startmenu.resume_game": "RESUME GAME",
+  "startmenu.multiplayer": "멀치",
+  "startmenu.resume_game": "다시",
   "startmenu.settings": "Settings",
   "startmenu.high_score": "High Score",
   "startmenu.throne_room": "Throne Room",
